@@ -1,9 +1,9 @@
 # Back-end developer programming exam
 
 ## Objectives
-- Create a simple To-do list application that's is viewable as website.
+- Create a simple To-do list application with a clean responsive UI interface.
 - You may choose any programming languages and database platform that
-your are most comfortable to use.
+your are most comfortable to use but it will be better if you use MERN stack.
 
 ## Use cases
 As a user,
